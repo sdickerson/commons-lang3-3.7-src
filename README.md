@@ -47,6 +47,7 @@ Apache Commons Lang
 [![Coverage Status](https://coveralls.io/repos/apache/commons-lang/badge.svg?branch=master)](https://coveralls.io/r/apache/commons-lang)
 [![Maven Central](https://maven-badges.herokuapp.com/maven-central/org.apache.commons/commons-lang3/badge.svg)](https://maven-badges.herokuapp.com/maven-central/org.apache.commons/commons-lang3/)
 [![Javadocs](https://javadoc.io/badge/org.apache.commons/commons-lang3/3.6.svg)](https://javadoc.io/doc/org.apache.commons/commons-lang3/3.6)
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fsdickerson%2Fcommons-lang3-3.7-src.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fsdickerson%2Fcommons-lang3-3.7-src?ref=badge_shield)
 
 Apache Commons Lang, a package of Java utility classes for the
   classes that are in java.lang's hierarchy, or are considered to be so
@@ -104,3 +105,6 @@ Additional Resources
 
 [ml]:https://commons.apache.org/mail-lists.html
 
+
+
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fsdickerson%2Fcommons-lang3-3.7-src.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fsdickerson%2Fcommons-lang3-3.7-src?ref=badge_large)
